@@ -8,4 +8,4 @@ An integrated development environment (IDE) tailored for beginners.
 Syntax highlighting to help distinguish elements of the code.
 Algorithm execution with step-by-step execution and variable watching, aiding in the debugging process.
 Support for common programming constructs and data types.
-It's a useful tool for those just starting in programming, educators in programming fundamentals, or anyone looking to strengthen their logical and algorithmic thinking skills.VISUALG 3.0.7.0
+It's a useful tool for those just starting in programming, educators in programming fundamentals, or anyone looking to strengthen their logical and algorithmic thinking skills.
