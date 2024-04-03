@@ -1,2 +1,2 @@
-IDE utilizado nos estudos de caso
+IDE utilizado nos estudos de caso:
 Visualg 3.0
